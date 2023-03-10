@@ -1,0 +1,3 @@
+﻿  Assembling ChatBot_ALISHA.asm...
+asmlib.lib(asmLibC.obj) : warning LNK4099: PDB 'asmlib.pdb' was not found with 'asmlib.lib(asmLibC.obj)' or at 'C:\Users\catsn\Desktop\MSJC Stuff\Semester3Spring2022\ChatBot_ALISHA\AsmProject\Debug\asmlib.pdb'; linking object as if no debug info
+  AsmProject.vcxproj -> C:\Users\catsn\Desktop\MSJC Stuff\Semester3Spring2022\ChatBot_ALISHA\AsmProject\Debug\AsmProject.exe
