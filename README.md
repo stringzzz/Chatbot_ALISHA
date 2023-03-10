@@ -1,4 +1,4 @@
-# Chatbot_ALISHA
+# ChatBot ALISHA (Assembly Language Intelligent Speech Happy Automator)
 
 This chatbot was from about a year and a half ago when I was taking a Comp Org and Assembly Language class.
 It wasn't for an actual assignment for the class, just a side project. I had to keep it simple due to the complexity
