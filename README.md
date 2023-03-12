@@ -1,6 +1,6 @@
 # ChatBot ALISHA (Assembly Language Intelligent Speech Happy Automator)
 
-This chatbot was from about a year and a half ago when I was taking a Comp Org and Assembly Language class.
+This chatbot was from about a year ago when I was taking a Comp Org and Assembly Language class.
 It wasn't for an actual assignment for the class, just a side project. I had to keep it simple due to the complexity
 of assembly language. My Chatbot OPHELIA written in Python is much better, but I'm still happy that I was aable to pull this one off.
 
